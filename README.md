@@ -1,4 +1,4 @@
-# 🛒 HR Analytics Dashboard
+# HR Analytics Dashboard
 
 ## 📊 Project Overview
 This project features a comprehensive HR Analytics dashboard designed to monitor and analyze workforce trends, with a primary focus on employee attrition and job satisfaction. By evaluating metrics across departments, education fields, and demographics, the dashboard provides a data-driven look at organizational health.
@@ -23,7 +23,7 @@ The goal is to help HR leadership identify high-risk attrition groups and unders
 - Satisfaction Levels: Roles like Research Scientist and Laboratory Technician show the highest volume of employees with high satisfaction ratings (Level 3 and 4), yet these areas still contribute significantly to raw attrition numbers, suggesting that factors beyond immediate job satisfaction may be driving exits.
 
 ## 🖥️ Preview
-[HR Analytics Dashboard](https://github.com/Lawal-Jnr-Analyst/BlinkIT-Grocery-Data/blob/main/BLINKIT.jpg)
+[HR Analytics Dashboard](https://github.com/Lawal-Jnr-Analyst/HR-ANALYTICS/blob/main/HR.jpg)
 >click the image above to see a preview of the final dashboard.
 
 
