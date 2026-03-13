@@ -15,6 +15,7 @@ The goal is to help HR leadership identify high-risk attrition groups and unders
 - The Action: I integrated disparate workforce datasets into Power BI and utilized DAX to calculate critical KPIs like Attrition Rate and Active Employee counts. I created interactive visualizations, including attrition breakdowns by department and education field, as well as a heat-mapped satisfaction rating table by job role.
 - The Result: The dashboard identified a 16.12% overall attrition rate, with the R&D department accounting for over half of all departures (56%). This insight allows management to pivot focus toward specific departmental cultures and career paths to reduce turnover.
 
+
 ## 💡 Data Insights
 - Workforce Overview: The organization currently maintains 1,233 active employees from an overall pool of 1,470, with an average workforce age of 37 years.
 - Departmental Attrition: The R&D department experiences the highest attrition at 56%, followed by Sales (39%) and HR (5%), indicating that retention efforts should be prioritized in high-output technical roles.
@@ -22,9 +23,10 @@ The goal is to help HR leadership identify high-risk attrition groups and unders
 - Gender & Age Trends: Attrition is highest in the 25–34 age group (112 employees), with female employees in this bracket showing a higher attrition rate (62%) compared to their male counterparts (38%).
 - Satisfaction Levels: Roles like Research Scientist and Laboratory Technician show the highest volume of employees with high satisfaction ratings (Level 3 and 4), yet these areas still contribute significantly to raw attrition numbers, suggesting that factors beyond immediate job satisfaction may be driving exits.
 
+
 ## 🖥️ Preview
-[HR Analytics Dashboard](https://github.com/Lawal-Jnr-Analyst/HR-ANALYTICS/blob/main/HR.jpg)
->click the image above to see a preview of the final dashboard.
+[HR Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTE1YzczMDQtNzQzNy00YTQ2LWFjZGEtOWI4N2ZlOGQ2YTAzIiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9)
+>The full interactive dashboard is available via the link above.
 
 
 #### 🧑‍💻Author: [Lawal-Jnr-Analyst](https://github.com/Lawal-Jnr-Analyst)
